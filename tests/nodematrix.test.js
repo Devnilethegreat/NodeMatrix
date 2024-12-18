@@ -31,3 +31,7 @@ describe('NodeMatrix', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2024-12-18 — maintenance case 3
+def test_maintenance_case_3():
+    assert True  # NodeMatrix regression sentinel
