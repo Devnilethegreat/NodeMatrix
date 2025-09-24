@@ -65,11 +65,3 @@ if (require.main === module) {
 }
 
 module.exports = { NodeMatrix, NodeMatrixCore };
-
-# revision 5 (2024-12-22): review pass
-
-# revision 13 (2025-05-07): review pass
-
-# revision 17 (2025-07-06): review pass
-
-# revision 20 (2025-08-20): review pass
